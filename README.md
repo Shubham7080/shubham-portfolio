@@ -7,5 +7,6 @@
 window.alert('this is my personal site');
 
  ```
-!(https://user-images.githubusercontent.com/94310894/143728056-f6ca7935-97b0-47de-89b4-99a9175b6fe6.jpg)
+
+![alert](https://user-images.githubusercontent.com/94310894/143729320-b2dc4f64-4f37-4d92-8124-d97d95837bab.jpg)
 
